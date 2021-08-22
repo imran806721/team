@@ -1,0 +1,15 @@
+1.  apachi.tomcat/bin/startup.bat
+2.  mvn clean install   build
+3.  apache tomcat
+        localhost:8080/webapp/
+
+4.  maven life cycle 
+    * validate
+    * comiple
+    *test
+    *package
+    *verify
+    * install
+    *deploy
+
+5.  

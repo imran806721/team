@@ -1,0 +1,34 @@
+                                 
+                                                       SVN 
+
+1.go svn server and click on repository then creat new repository by with tags,branches,trunk and copy URL
+2. then create one directory  open it then checkout then automatically sub directories tag barnches trunk 
+3. then open trunk then create an file then commit it 
+4. then again go to svn server one repo and click on trunk copy URL then again creat one directory then their checkout 
+5. we can get trunk file in new directory and we can change or modify some thing and save it again checkout 
+6 . go back to main directory and update here 
+7. go to trunk directory and merge branche file into trunk file then commit it           
+                                  
+                                                      ANT
+
+         
+1. directory create 
+2. github ant project file  URL copy 
+3. open dir  check gitbash          git clone paste URL   file created by "  build.xml " formate
+4. for building file by ANT
+5 . automatically create build directory
+
+
+
+                                                  MAVEN
+
+
+1. direcory creat
+2.. github maven project file  URL copy 
+3. open dir  check gitbash          git clone paste URL file created by   "  pom " formate
+4.for building file by   mvn clean install
+5 . automatically create target directory
+6. in target folder  .WAR file to copy it into    tomcat /webapp/ paste it here
+7. go to tomcat /bin/ command promt    STARTUP.BAT 
+
+

@@ -1,0 +1,25 @@
+  
+  189  mkdir myfirstgit
+  190  cd myfirstgit
+  191  cd ..
+  192  cd myfirstgit
+  193  git clone https://github.com/dhanusaik/hello-world.git
+  194  ls
+  195  cd hello-world
+  196  ls
+  197  ls -altr
+  198  git status
+  199  git branch
+  200  vi sample
+  201  git status
+  202  git add sample
+  203  git status
+  204  git commit -m "this is first commit"
+  205  git config --global user.email "saikirankoneti1@gmail.com"
+  206  git config --global user.name "dhanu"
+  207  git commit -m "this is first commit"
+  208  git status
+  209  git pull
+  210  git push origin/master
+  211  git push origin master
+  212  git

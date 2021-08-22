@@ -1,0 +1,4 @@
+1. ssh -i devops.pem ec2-user@52.91.220.34
+2. df -h
+3. cat /etc/devops.pem
+4. cat  /proc  /cpuinfo

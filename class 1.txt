@@ -1,0 +1,8 @@
+DEVOPS
+     class:-
+basic commands 
+1.PWD:- its used to known about absolute path it means we are in which path
+2.LS:-its used to known what file contain in this drive are path
+3.CD:-its used to known about home drive 
+4.MKDIR:-its used to create drive or folder
+5.TOUCH:- its used to create a file 

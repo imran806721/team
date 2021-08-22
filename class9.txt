@@ -1,0 +1,25 @@
+                                           
+                                                                  how to commit .exe/.jar in svn repo 
+
+try to explore svn change list
+
+
+
+how to commit local repo into remote repo in git
+1.git push -u 
+
+
+what is diff b/w
+1. merge v/s rebase v/s cherrypick 
+2.git pull v/s push
+
+
+
+
+
+tools
+java 1.8
+jdk kit
+apache maven
+apache ant
+jenkin

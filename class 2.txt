@@ -1,0 +1,24 @@
+                                                                                                                   VI
+
+
+1.   I  :- is used to insert content in file 
+
+2. YY :- used to copy the line and we can also copy number of line content by using no.of YY ( ie. three line by   3YY )
+
+3. we are in root they if we want to create a user they we use  USERADD  USERNAME  ( ie, useradd dhanus )
+
+     if need to see list of users by use LS /HOME then users list will be displayed
+     we want to see some hidden files then we use  LS -ALTR then their displayed hidden files 
+          by default we can have .barharc .barharfile  etc.. 
+
+4.if we want change some word or replace some word by another word in a file content 
+                                       %S/WORD/REPLACE WORD/ 
+
+5.  PASSWD LINUX  is used to chage passwd to linux
+    in some other cases 
+      
+6.  VISUDO type in root user and again SHIFT+G then display content of passwds and we cant accessit
+
+7. SUDO SU LINEX is used to switch user from root to linux or SU LINUX also perform samereaction
+
+8. MV is used to change file name and directory names and it can perform also move files and  directories alsosS
